@@ -1,0 +1,8 @@
+C:\Users\Musai\Desktop\HiLow-main\cards\bin\Debug\cards.dll
+C:\Users\Musai\Desktop\HiLow-main\cards\bin\Debug\cards.pdb
+C:\Users\Musai\Desktop\HiLow-main\cards\obj\Debug\cards.csproj.AssemblyReference.cache
+C:\Users\Musai\Desktop\HiLow-main\cards\obj\Debug\cards.Properties.Resources.resources
+C:\Users\Musai\Desktop\HiLow-main\cards\obj\Debug\cards.csproj.GenerateResource.cache
+C:\Users\Musai\Desktop\HiLow-main\cards\obj\Debug\cards.csproj.CoreCompileInputs.cache
+C:\Users\Musai\Desktop\HiLow-main\cards\obj\Debug\cards.dll
+C:\Users\Musai\Desktop\HiLow-main\cards\obj\Debug\cards.pdb

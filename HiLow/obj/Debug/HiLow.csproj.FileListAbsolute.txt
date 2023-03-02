@@ -1,0 +1,17 @@
+C:\Users\Musai\Desktop\HiLow-main\HiLow\bin\Debug\HiLow.exe.config
+C:\Users\Musai\Desktop\HiLow-main\HiLow\bin\Debug\HiLow.exe
+C:\Users\Musai\Desktop\HiLow-main\HiLow\bin\Debug\HiLow.pdb
+C:\Users\Musai\Desktop\HiLow-main\HiLow\bin\Debug\cards.dll
+C:\Users\Musai\Desktop\HiLow-main\HiLow\bin\Debug\cards.pdb
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.csproj.AssemblyReference.cache
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.Form1.resources
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.Properties.Resources.resources
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\Publicjoe.Windows.EntryForm.resources
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\Publicjoe.Windows.HighScoreForm.resources
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\Publicjoe.Windows.RulesForm.resources
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.csproj.GenerateResource.cache
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.csproj.CoreCompileInputs.cache
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.csproj.CopyComplete
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.exe
+C:\Users\Musai\Desktop\HiLow-main\HiLow\obj\Debug\HiLow.pdb
